@@ -1,5 +1,3 @@
-# IBM_data_analysis
-
 # What are the main characteristics which have the most impact on the car price?
 
 **Part One: Exploratory Data Analyis**
